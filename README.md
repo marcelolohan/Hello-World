@@ -37,7 +37,21 @@
 </head>
 <body>
 
-  <div class="title">Um novo amor está a caminho...</div>
+  <div class="title">🌟💙 "Oi, minha família querida!"
+Aqui quem fala é o seu bebê... ainda estou aqui no quentinho da barriga da mamãe, crescendo com todo cuidado e carinho que papai e mamãe estão me dando.
+Mas sabe o que me deixa ainda mais feliz? Sentir, mesmo de longe, o amor de cada um de vocês. 💞
+
+Faltam só 259 dias para eu chegar neste mundão e conhecer todos os rostinhos que já me esperam com tanta alegria.
+Estou me preparando para trazer muitos sorrisos, baguncinhas gostosas e um amor novinho em folha pra nossa família!
+
+Já sinto o cheirinho do colo da vovó, o jeitinho brincalhão dos titios e a emoção no olhar de cada um...
+Mal posso esperar para ser abraçado, mimado (com jeitinho!) e fazer parte de tantos momentos especiais com vocês. 🥰
+
+Papai e mamãe estão muito animados, e esse cantinho aqui é só o começo da minha história com vocês.
+Obrigada por todo amor... estou chegando para multiplicá-lo!
+
+Com muito carinho e um chutinho de felicidade,
+Seu bebê 💙</div>
 
   <img src="https://via.placeholder.com/300x200.png?text=Bebê+a+Caminho" alt="Imagem do Bebê" />
 
